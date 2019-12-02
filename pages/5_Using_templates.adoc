@@ -49,7 +49,7 @@ Click the "*Next*" button
 
 On the "*Binding*" page click the *Create* button.
 
-Naviagete back to the project overview page and soon you will see
+Navigate back to the project overview page and soon you will see
 an image of a running pod.
 
 image:images/mysql_pod_on_proj_overview.png[image]
